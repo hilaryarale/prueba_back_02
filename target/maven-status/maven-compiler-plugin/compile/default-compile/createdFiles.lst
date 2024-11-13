@@ -1,0 +1,7 @@
+com\uefa\service\JugadorServiceImpl.class
+com\uefa\UefaApplication.class
+com\uefa\controller\JugadorController.class
+com\uefa\service\JugadorService.class
+com\uefa\repository\JugadorRepository.class
+com\uefa\entity\Pais.class
+com\uefa\entity\Jugador.class
